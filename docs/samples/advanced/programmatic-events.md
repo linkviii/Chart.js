@@ -101,6 +101,13 @@ module.exports = {
   config: config,
 };
 ```
+
+## API
+* [Chart](../../api/classes/Chart.md)
+  * [`setActiveElements`](../../api/classes/Chart.md#setactiveelements)
+* [TooltipModel](../../api/interfaces/TooltipModel.html)
+  * [`setActiveElements`](../../api/interfaces/TooltipModel.html#setactiveelements)
+
 ## Docs
 * [Bar](../../charts/bar.html)
     * [Interactions (`hoverBorderColor`)](../../charts/bar.html#interactions)
