@@ -170,3 +170,7 @@ module.exports = {
 };
 
 ```
+
+## Docs
+
+* [Line](../../charts/line.html)

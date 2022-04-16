@@ -142,3 +142,10 @@ module.exports = {
   output: 'console.log output is displayed here'
 };
 ```
+
+## Docs
+* [Animations](../../configuration/animations.html)
+  * [Animation Callbacks](../../configuration/animations.html#animation-callbacks)
+* [Data structures (`labels`)](../../general/data-structures.html)
+* [Line](../../charts/line.html)
+

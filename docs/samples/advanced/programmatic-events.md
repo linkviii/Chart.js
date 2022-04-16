@@ -101,3 +101,8 @@ module.exports = {
   config: config,
 };
 ```
+## Docs
+* [Bar](../../charts/bar.html)
+    * [Interactions (`hoverBorderColor`)](../../charts/bar.html#interactions)
+* [Interactions](../../configuration/interactions.html)
+* [Tooltip](../../configuration/tooltip.html)
