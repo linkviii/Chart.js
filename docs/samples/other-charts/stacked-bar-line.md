@@ -123,7 +123,6 @@ module.exports = {
 * [Axes scales](../../axes/)
   * [Common options to all axes (`stacked`)](../../axes/#common-options-to-all-axes)
   * [Stacking](../../axes/#stacking)
-
 * [Bar](../../charts/bar.html)
 * [Line](../../charts/line.html)
 * [Data structures (`labels`)](../../general/data-structures.html)
